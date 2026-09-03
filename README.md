@@ -1,4 +1,6 @@
 # Warkop Remote Multi-Server v3.5 Modular
+# GNU General Public License v3.0
+# Contributor: Babygore hdteam/MHL
 
 Modularized layout of the original `warkopv3.3.sh` https://github.com/sigithdteam-lab/warkop-Remote-Multi-Server to make maintenance easier. 
 
