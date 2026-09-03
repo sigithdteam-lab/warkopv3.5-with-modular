@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # Warkop Remote Multi-Server v3.5 Modular
 # Main entrypoint. Features are split into modules for easier maintenance.
+# GNU General Public License v3.0
+# Contributor: Babygore hdteam/MHL
 set -o pipefail
 shopt -s extglob
 
