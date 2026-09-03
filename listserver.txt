@@ -1,0 +1,8 @@
+# Format:
+# user@host:port
+# root@host:port
+# host:port
+# host                (defaults to SSH port 22)
+# IPv6 examples:
+# user@[2001:db8::10]:22
+# [2001:db8::10]:22
